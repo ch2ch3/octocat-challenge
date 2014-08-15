@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is usually used as the one true source of code so as to coordinate a team. The team members clone/copy from the same upstream remote so that everyone is working on the same code base.
