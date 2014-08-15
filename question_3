@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an alternate version of the master. When working in a branch, any changes made will only be saved to that branch, and the master code will not be affected.
